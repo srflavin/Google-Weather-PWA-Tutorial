@@ -46,6 +46,7 @@ const FILES_TO_CACHE = [
   '/images/thunderstorm.svg',
   '/images/tornado.svg',
   '/images/wind.svg',
+  '/offline.html',
 ];
 
 self.addEventListener('install', (evt) => {
